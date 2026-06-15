@@ -1,0 +1,31 @@
+{
+  "name": "cdci",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Open-source browser, enrichment & CARE export for NRCeS Common Drug Codes for India (SNOMED CT)",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build:data": "tsx scripts/build-data.ts",
+    "validate:enrichments": "tsx scripts/validate-enrichments.ts",
+    "dev": "next dev",
+    "build": "npm run build:data && next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "flexsearch": "^0.7.43",
+    "next": "^15.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

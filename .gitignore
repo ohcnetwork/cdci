@@ -1,0 +1,16 @@
+# deps / build
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+# generated data artifacts (produced by `npm run build:data`)
+/public/data/
+# raw vendored download (kept only as data/source)
+/CommonDrugCodesForIndia_FlatFilePackage/
+# os / editor
+.DS_Store
+*.log
+.env*
+.vercel
+.gstack/

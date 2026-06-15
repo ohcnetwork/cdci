@@ -1,0 +1,16 @@
+Copyright (c) 2019, Centre for Development of Advanced Computing (C-DAC), Pune
+All rights reserved.
+
+The Common Drug Codes for India (Flat Files Package) is produced by National Resource Centre for EHR Standards (NRCeS) at Centre for Development of Advanced Computing (C-DAC), Pune under the terms of the Creative Commons Attribution 4.0 International Public License, https://creativecommons.org/licenses/by/4.0/
+
+Additional information about this license for use of Common Drug Codes for India (Flat Files Package):
+
+The Common Drug Codes for India (Flat Files Package) is a managed list of Common Drug Codes for India covering a list of unique identifiers and terms. The Flat Files Package contain some SNOMED CT codes (identifiers) and Terms from its International Release. The usage of SNOMED CT International Release content is governed by relevant clauses of SNOMED CT Affiliate License extended to the user of this package.
+
+SNOMED CT® was originally created by the College of American Pathologists.  "SNOMED" and "SNOMED CT" are registered trademarks of International Health Terminology Standards Development Organisation, trading as SNOMED International.
+
+The Licensee can redistribute this package within India. The Licensee can create derivatives or implementation-related products and services using this package within India.
+
+The Brand names and any trade names are copyright of their respective owners.
+
+C-DAC does not warrant the accuracy, completeness, or adequacy of content. The content provided is intended but not promised or guaranteed to be current, complete and up-to-date. 

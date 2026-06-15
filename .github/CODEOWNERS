@@ -1,0 +1,6 @@
+# Safety-affecting drug data requires clinician/pharmacist (Curator) review before merge.
+# See GOVERNANCE.md. Branch protection must require CODEOWNERS review on these paths.
+
+/enrichments/        @ohcnetwork/cdci-curators
+/data/source/        @ohcnetwork/cdci-maintainers
+/scripts/            @ohcnetwork/cdci-maintainers

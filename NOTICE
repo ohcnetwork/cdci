@@ -1,0 +1,31 @@
+CDCI Browser
+============
+
+This product includes and redistributes the "Common Drug Codes for India (CDCI)
+Flat File Package" produced by the National Resource Centre for EHR Standards
+(NRCeS) at the Centre for Development of Advanced Computing (C-DAC), Pune.
+
+  Source data © C-DAC / NRCeS.
+  Licensed under the Creative Commons Attribution 4.0 International Public License
+  (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+The package contains SNOMED CT content from the SNOMED CT International Release
+and the SNOMED CT India National Extension. Use of SNOMED CT content is governed
+by the relevant clauses of the SNOMED CT Affiliate License extended to users of
+the package.
+
+  "SNOMED" and "SNOMED CT" are registered trademarks of the International Health
+  Terminology Standards Development Organisation (SNOMED International). SNOMED CT
+  was originally created by the College of American Pathologists.
+
+Brand names and trade names contained in the data are the copyright/trademark of
+their respective owners and are included for identification purposes only.
+
+The CDCI package permits redistribution and the creation of derivatives within
+India. This project is intended for Indian healthcare use. C-DAC does not warrant
+the accuracy, completeness, or adequacy of the content.
+
+Community enrichment contributed to this project is licensed under CC BY 4.0.
+Application source code is licensed under the MIT License.
+
+This is a reference tool and is NOT a clinical decision-support system.

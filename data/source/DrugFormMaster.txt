@@ -1,0 +1,423 @@
+Identifier	Dose Form	
+1008211000202107	Solution for blood fraction modification
+1007391000202107	Oral gum
+230601000087108	Powder for prolonged-release oral suspension
+230591000087100	Powder for solution for haemodialysis
+230581000087102	Solution for intraocular irrigation
+92631000087102	Modified-release oral suspension
+62071000087106	Prolonged-release chewable tablet
+1306760007	Prolonged-release intracameral implant
+1306759002	Prolonged-release intravitreal implant
+1297071006	Conventional release intravesical solution and solution for injection
+1297017001	Powder for conventional release intravesical solution and solution for injection
+1290360004	Chewable and/or dispersible oral tablet
+1287605002	Solution for intraperitoneal instillation
+1279737007	Prolonged-release eye drops solution
+1269278009	Porous impregnated material for pulmonary vapor inhalation
+1255346009	Intestinal gel
+1255338008	Chewable soft capsule
+1255299001	Tablet for oromucosal solution for mouthwash
+1237318003	Concentrate for cutaneous emulsion spray
+1237310005	Concentrate for oromucosal solution for gargle
+1237293005	Concentrate for solution for nebulizer
+1237291007	Concentrate for solution for intraocular irrigation
+1237290008	Concentrate for oral and rectal solution
+1237289004	Concentrate for oromucosal solution
+1237288007	Concentrate for intravesical solution
+1237287002	Concentrate for cutaneous solution
+1237286006	Concentrate for emulsion for injection
+1237285005	Concentrate for emulsion for infusion and/or injection
+1237284009	Concentrate for emulsion for infusion
+1237275009	Concentrate for solution for haemodialysis
+1237274008	Concentrate for dispersion for infusion and/or injection
+1237273002	Concentrate for dispersion for infusion
+1237271000	Concentrate for dispersion for injection
+1237270004	Concentrate for solution for peritoneal dialysis
+1237269000	Concentrate for solution for infusion and/or injection
+1237268008	Concentrate for solution for injection
+1237267003	Concentrate for solution for infusion
+1237266007	Concentrate for rectal solution
+1237265006	Concentrate for oral solution
+1237264005	Concentrate for oral suspension
+1237263004	Concentrate for suspension for injection
+1237073006	Prolonged-release intrauterine delivery system
+1236820004	Solution for solution for tissue adhesive
+1236816003	Powder for solution for tissue adhesive
+1236769008	Gas for dispersion for infusion and/or injection
+1236768000	Dispersion for infusion and/or injection
+1236767005	Impregnated material for tissue adhesive
+1236766001	Powder for tissue adhesive
+1236765002	Solution for tissue adhesive
+1234927004	Powder for solution for infusion or injection
+1234926008	Solution for infusion or injection
+1234925007	Dispersion for infusion or injection
+1234924006	Emulsion for infusion or injection
+1234923000	Gas for dispersion for infusion or injection
+1234766003	Solution for dental cement
+1231838002	Absorbent impregnated material for vapour inhalation
+1231837007	Dispersion for nebuliser
+1231836003	Absorbent impregnated material for cutaneous application
+1231833006	Prolonged-release solution for injection
+1231818003	Impregnated material for ophthalmic application
+1231724003	Solution for cardioplegia or organ preservation
+1231723009	Conventional release toothpaste
+1231720007	Intraocular drops solution
+1231719001	Powder for solution for intraocular drops
+1231714006	Pure liquid for oral drops
+1231713000	Oral pure liquid
+1231712005	Cutaneous pure liquid
+1231711003	Pure liquid for vapor inhalation
+1231579008	Intravesical suspension
+1231578000	Powder for intravesical solution
+1231577005	Conventional release solution for cardioplegia
+1231572004	Prolonged-release transdermal delivery system
+1231571006	Prolonged-release vaginal delivery system
+1231567008	Solution for vapor inhalation
+1231566004	Tablet for vapour inhalation
+1231565000	Capsule for vapour inhalation
+1231564001	Ointment for vapour inhalation
+1231563007	Powder for vapor inhalation
+1231562002	Emulsion for vapour inhalation
+1231536006	Oromucosal solution for gargle or mouthwash
+1231479005	Solution for haemodiafiltration or haemodialysis
+1231478002	Solution for hemodiafiltration
+1231476003	Solution for haemofiltration
+1231474000	Solution for haemodialysis
+1231473006	Solution for peritoneal dialysis
+1231373005	Granules for solution for oral drops
+1231372000	Powder for suspension for oral drops
+1231371007	Oromucosal film
+1231370008	Urethral ointment
+1231323007	Powder for dental cement
+1231322002	Dental cement
+1231318007	Cutaneous collodion
+1231297004	Prolonged-release periodontal insert
+1230390008	Coated oral granules
+1230389004	Coated oral tablet
+1230360001	Sublingual film
+1230359006	Sublingual powder
+1230358003	Effervescent granules for oral suspension
+1230351009	Sublingual lyophilisate
+1230350005	Cutaneous poultice
+1230336000	Oral effervescent powder
+1230331005	Compressed gas for inhalation
+1230330006	Liquified gas for inhalation
+1230329001	Cryogenic gas for inhalation
+1230325007	Powder for suspension for endotracheopulmonary instillation
+1230324006	Powder for solution for endotracheopulmonary instillation
+1230267000	Powder for dispersion for injection
+1230224008	Cutaneous lacquer
+1230222007	Periodontal insert
+1230221000	Periodontal powder
+1230220004	Periodontal gel
+1230219005	Oromucosal compressed lozenge
+1230202008	Powder for oromucosal solution for mouthwash
+1230200000	Powder for oromucosal solution for gargle
+1230196005	Powder for dispersion for infusion
+1230195009	Gas for dispersion for injection
+1230194008	Gas for dispersion for infusion
+1230193002	Tablet for oromucosal solution for gargle
+1230186001	Prolonged-release dispersion for injection
+1230185002	Dispersion for injection
+1230184003	Dispersion for infusion
+1230073008	Cutaneous ointment spray
+1230065004	Cutaneous emulsion spray
+1229992005	Powder for solution for iontophoresis
+1229935009	Sublingual emulsion spray
+1229934008	Oromucosal spray emulsion
+1229933002	Transdermal solution spray
+1229932007	Transdermal solution
+1229931000	Powder for vaginal solution
+1229930004	Ear and nose drops solution
+1217290000	Oromucosal cream
+1217289009	Oromucosal ointment
+1217288001	Soft oral capsule
+1217287006	Hard oral capsule
+1217286002	Modified-release oral hard capsule
+1217285003	Prolonged-release oral hard capsule
+1217284004	Gastro-resistant oral hard capsule
+1209141005	Emulsion for infusion and/or injection
+1209112001	Granules for oral and rectal suspension
+1209096001	Oral and rectal solution
+1209095002	Solution for intravesical and urethral irrigation
+1209093009	Ear and nose drops suspension
+1209021002	Powder for solution for infusion and/or injection
+1208958005	Solution for infusion and/or injection
+1173983000	Cutaneous oil for bathing
+1163573008	Film-coated oral tablet
+1163202003	Cutaneous emulsion for bathing
+1002252007	Gas for insufflation
+896760006	Powder for oral and rectal suspension
+879805002	Conventional release oral pellets in capsule
+840614006	Conventional release intraarticular implant
+785910004	Prolonged-release intralesional implant
+785908001	Shampoo
+785899003	Solution for ocular irrigation
+785898006	Solution for irrigation
+783748000	Foam for injection
+782648001	Prolonged-release vaginal pessary
+769120006	Effervescent powder for oral suspension
+769115006	Effervescent powder for oral solution	
+767059009	Vaginal pessary	
+766234004	Powder for suspension for inhalation
+766233005	Gastro-resistant and prolonged-release oral granules
+765367006	Emulsion for infusion
+765164007	Ear and eye and nose drops solution
+765163001	Ear and eye drops solution
+765065005	Powder for suspension for infusion
+765064009	Modified-release oral soft capsule
+765062008	Prolonged-release oral soft capsule
+765061001	Gastro-resistant oral soft capsule
+764843001	Powder for solution for infusion
+764842006	Prolonged-release ocular implant
+764803006	Transdermal spray
+764802001	Transdermal gel	
+764788008	Oropharyngeal solution
+764787003	Oropharyngeal foam
+764780001	Effervescent oral tablet
+764776006	Dental pellet
+764774009	Conventional release and prolonged-release oral tablet
+764773003	Oromucosal pastille
+764772008	Prolonged-release vaginal ring
+764770000	Dual delayed-release oral capsule	
+764501003	Oromucosal lozenge
+764499006	Buccal lozenge
+764486008	Prolonged-release cutaneous patch
+764485007	Cutaneous patch
+764478008	Gingival ointment
+764477003	Transdermal cream
+764446000	Nasal paste
+764378009	Enteral dose form
+764297006	Transdermal foam
+764296002	Prolonged-release subcutaneous implant
+763852000	Buccal spray
+763823003	Powder for oromucosal gel
+763820000	Gastro-resistant oral suspension
+763819006	Prolonged-release transdermal film
+763485003	Intrauterine suspension
+763484004	Intrauterine solution
+763446005	Gel for injection
+763445009	Dental paste
+763340003	Sublingual solution spray
+762895008	Granules for oromucosal solution
+762893001	Transdermal ointment
+762072000	Cutaneous tape
+762065001	Cutaneous lotion
+762064002	Eye emulsion
+761907007	Powder for intravesical suspension
+761906003	Oromucosal suspension spray
+761905004	Oromucosal spray solution
+761901008	Granules for gastro-resistant oral suspension
+761900009	Eye drops emulsion
+761899004	Powder for rectal solution	
+739662008	Vaginal tampon
+739372003	Vaginal solution spray
+739371005	Vaginal suspension spray
+739148000	Rectal solution spray
+739147005	Rectal suspension spray
+719200003	Ophthalmic strip
+447079001	Orodispersible tablet
+447050008	Orodispersible film
+443424002	Buccal film	
+427129005	Oral coated capsule
+426823003	Vaginal spray
+425965000	Rectal spray
+425753008	Cutaneous ointment
+424552006	Vaginal sponge
+422353003	Prolonged-release oral suspension
+422336005	Nasal solution
+422264003	Powder for prolonged-release suspension for injection
+422201009	Tablet for cutaneous solution
+422085005	Powder for eye suspension
+422080000	Nasal suspension
+422068008	Eye drops suspension
+422060001	Eye solution
+421949005	Cutaneous gel
+421857007	Powder for eye solution
+421765004	Solution for intraperitoneal injection
+421752008	Gastro-resistant and prolonged-release oral capsule
+421713001	Ear solution
+421701006	Tablet for oral solution
+421628006	Cutaneous cream
+421620004	Prolonged-release buccal tablet
+421535006	Gastro-resistant oral particles tablet
+421446006	Granules for prolonged-release oral suspension
+421427005	Ear and eye ointment
+421425002	Powder for inhalation solution
+421382000	Ear suspension
+421366001	Dispersible oral tablet
+421343002	Powder for cutaneous solution
+421338009	Prolonged-release oral coated capsule
+421221008	Suspension for inhalation
+421155001	Gastro-resistant and prolonged-release oral tablet
+421056002	Emulsion for inhalation
+421026006	Oral tablet
+420929008	Rectal suppository
+420901005	Ear emulsion
+420891003	Ear drops suspension
+420873008	Prolonged-release suspension for injection
+420767002	Gastro-resistant oral pellets capsule
+420736004	Eye suspension
+420692007	Oral capsule
+420641004	Solution for inhalation
+420636007	Ear and eye drops
+420631002	Vaginal insert
+420540006	Cutaneous oil
+420536002	Vaginal powder
+420509004	Oral granules
+420378007	Prolonged-release film-coated oral tablet
+420293008	Oral coated pellets capsule
+420292003	Rectal powder
+420283001	Nasal emulsion
+414951009	Oral elixir	
+385279006	Cutaneous suspension spray
+385278003	Cutaneous powder spray
+385260008	Gastroenteral emulsion
+385259003	Gastroenteral suspension
+385258006	Gastroenteral solution
+385251000	Endocervical gel
+385250004	Suspension for endotracheopulmonary instillation
+385247002	Solution for endotracheopulmonary instillation
+385246006	Urethral stick
+385245005	Urethral gel
+385242008	Intravesical solution
+385229008	Solution for infusion
+385224003	Powder for suspension for injection
+385223009	Powder for solution for injection
+385221006	Emulsion for injection
+385220007	Suspension for injection
+385219001	Solution for injection
+385217004	Gas for inhalation
+385207009	Powder for inhalation
+385206000	Pressurized emulsion for inhalation
+385205001	Pressurized suspension for inhalation
+385204002	Pressurized solution for inhalation
+385202003	Emulsion for nebulizer
+385201005	Powder for nebuliser solution
+385200006	Powder for nebuliser suspension
+385199008	Suspension for nebulizer
+385198000	Solution for nebulizer
+385196001	Rectal tampon
+385195002	Rectal capsule
+385193009	Tablet for rectal suspension
+385192004	Tablet for rectal solution
+385191006	Powder for rectal suspension
+385189003	Rectal emulsion
+385188006	Rectal suspension
+385187001	Rectal solution
+385185009	Rectal foam
+385184008	Rectal ointment
+385183002	Rectal gel
+385182007	Rectal cream
+385179002	Effervescent vaginal tablet
+385178005	Vaginal tablet
+385177000	Soft vaginal capsule
+385176009	Hard vaginal capsule
+385175008	Vaginal capsule
+385173001	Tablet for vaginal solution
+385172006	Vaginal emulsion
+385171004	Vaginal suspension
+385170003	Vaginal solution
+385168007	Vaginal foam
+385167002	Vaginal ointment
+385166006	Vaginal gel
+385165005	Vaginal cream
+385164009	Ear and eye and nose ointment
+385163003	Ear and eye and nose drops
+385162008	Nasal stick
+385160000	Nasal emulsion spray
+385159005	Nasal suspension spray
+385158002	Nasal solution spray
+385157007	Nasal spray
+385156003	Nasal powder
+385155004	Nasal drops emulsion
+385154000	Nasal drops suspension
+385153006	Nasal drops solution
+385152001	Nasal drops
+385151008	Nasal ointment
+385150009	Nasal gel
+385149009	Nasal cream
+385148001	Otic stick
+385147006	Ear tampon
+385143005	Ear spray emulsion
+385142000	Ear spray suspension
+385141007	Ear spray solution
+385140008	Ear spray
+385139006	Ear powder
+385138003	Ear drops emulsion
+385137008	Ear drops solution
+385136004	Ear drops
+385135000	Ear ointment
+385134001	Ear gel
+385133007	Ear cream
+385132002	Prolonged-release ophthalmic insert
+385128008	Prolonged-release eye drops
+385125006	Eye drops solution
+385124005	Eye drops
+385123004	Eye ointment
+385122009	Eye gel
+385121002	Eye cream
+385119007	Cutaneous sponge
+385118004	Cutaneous stick
+385114002	Prolonged-release transdermal patch
+385113008	Solution for iontophoresis
+385112003	Cutaneous powder
+385111005	Cutaneous emulsion
+385110006	Cutaneous suspension
+385108009	Cutaneous solution
+385106008	Cutaneous solution spray
+385105007	Cutaneous spray
+385103000	Cutaneous foam
+385102005	Cutaneous paste
+385096003	Dental emulsion
+385095004	Dental suspension
+385094000	Dental solution
+385091008	Dental powder
+385090009	Prolonged-release dental insert
+385089000	Dental stick
+385088008	Dental gel
+385086007	Prolonged-release muco-adhesive buccal tablet
+385085006	Buccal tablet
+385084005	Sublingual tablet
+385082009	Gingival paste
+385081002	Gingival gel
+385079004	Oromucosal paste
+385078007	Oromucosal gel
+385077002	Gingival solution
+385074009	Sublingual spray
+385073003	Oromucosal spray
+385072008	Oromucosal drops
+385071001	Oromucosal suspension
+385070000	Oromucosal solution
+385065007	Oromucosal solution for gargle
+385063000	Prolonged-release oral gum
+385062005	Oral lyophilisate
+385061003	Modified-release oral tablet
+385060002	Prolonged-release oral tablet
+385059007	Gastro-resistant oral tablet
+385054002	Modified-release oral capsule
+385053008	Prolonged-release oral capsule
+385052003	Gastro-resistant oral capsule
+385047008	Modified-release oral granules
+385046004	Prolonged-release oral granules
+385045000	Gastro-resistant oral granules
+385044001	Effervescent oral granules
+385041009	Oral powder
+385039008	Oral paste
+385038000	Oral gel
+385034003	Granules for oral syrup
+385033009	Powder for oral syrup
+385032004	Oral syrup
+385029002	Granules for oral suspension
+385028005	Granules for oral solution
+385027000	Powder for oral suspension
+385026009	Powder for oral solution
+385025008	Oral emulsion
+385024007	Oral suspension
+385023001	Oral solution
+385021004	Oral drops emulsion
+385020003	Oral drops suspension
+385019009	Oral drops solution
+385018001	Oral drops
+70409003	Oromucosal solution for mouthwash
+66076007	Chewable tablet

@@ -1,0 +1,13 @@
+{
+  "name": "CDCI Browser — India Drug Codes",
+  "short_name": "CDCI",
+  "description": "Search, browse and enrich India's NRCeS Common Drug Codes (SNOMED CT).",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf8",
+  "theme_color": "#0d7d74",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

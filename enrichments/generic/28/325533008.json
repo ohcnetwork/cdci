@@ -1,0 +1,16 @@
+{
+  "sctid": "325533008",
+  "type": "generic",
+  "review_status": "expert_approved",
+  "contributor": "@example-curator",
+  "sources": [
+    "https://www.nhs.uk/medicines/estradiol/",
+    "https://bnf.nice.org.uk/drugs/estradiol-valerate/"
+  ],
+  "evidence_type": "regulatory",
+  "updated_at": "2026-06-16",
+  "therapeutic_role": "Estrogen (hormone replacement therapy)",
+  "indication": "Hormone replacement therapy for menopausal symptoms; hypoestrogenism.",
+  "contra_indication": "Known/suspected breast cancer, oestrogen-dependent malignancy, active venous thromboembolism, undiagnosed vaginal bleeding, severe hepatic impairment.",
+  "classification": "Sex hormones and modulators of the genital system (ATC G03C)"
+}

@@ -1,0 +1,161 @@
+Identifier	RouteOfAdministration
+66621000052103	Sublabial route
+58831000052108	Subretinal route
+58821000052106	Posterior juxtascleral route
+58811000052103	Peritumoral route
+58771000052103	Intraportal route
+58761000052107	Intracholangiopancreatic route
+58751000052109	Intraglandular route
+1611000175109	Sublesional route
+1388571004	Intraligamentary route
+1259221004	Intracorporus cavernosum route
+1254769004	Suprachoroidal route
+876824003	Intradialytic route
+766790006	Extracorporeal hemodialysis route
+764723001	Epilesional route
+718329006	Infiltration route
+714743009	Extracorporeal route
+711378007	Intramural route
+711360002	Intraneural route
+697971008	Arteriovenous fistula route
+448598008	Cutaneous route
+448492006	Intracolonic route
+448491004	Intrajejunal route
+448077001	Intraepidermal route
+447964005	Digestive tract route
+447694001	Respiratory tract route
+447229005	Transtracheal route
+447227007	Transtympanic route
+447122006	Intratumor route
+447121004	Intramammary route
+447081004	Lower respiratory tract route
+447080003	Peridural route
+447052000	Periodontal route
+447026006	Intraileal route
+446540005	Intracerebral route
+446442000	Transplacental route
+446435000	Transendocardial route
+446407004	Intraepicardial route
+446105004	Conjunctival route
+445941009	Intrahepatic route
+445913005	Intralingual route
+445771006	Intrapericardial route
+445768003	Intragastric route
+445767008	Intrameningeal route
+445756007	Intradural route
+445755006	Intravascular route
+445754005	Intragingival route
+445752009	Intraesophageal route
+429817007	Interstitial route
+428191002	Percutaneous route
+420719007	Intracerebroventricular route
+420287000	Intraventricular route - cardiac
+420254004	Body cavity route
+420218003	Nasoduodenal route
+420204005	Mucous fistula route
+420201002	Intrapulmonary route
+420185003	Laryngeal route
+420168000	Urostomy route
+420163009	Oesophagostomy route
+420047004	Periosteal route
+419993007	Intravenous peripheral route
+419954003	Ileostomy route
+419894000	Surgical cavity route
+419874009	Submucosal route
+419810008	Intraprostatic route
+419778001	Intrabronchial route
+419762003	Peritendinous route
+419684008	Ureteral route
+419631009	Intraovarian route
+419601003	Subgingival route
+419396008	Intraabdominal route
+419320008	Subtendinous route
+419243002	Transcervical route
+419231003	Intrasinal route
+419165009	Paravertebral route
+419021003	Tumor cavity route
+418987007	Intracranial route
+418947002	Intratesticular route
+418892005	Intracisternal route
+418887008	Intraduodenal route
+418877009	Intrasynovial route
+418851001	Paracervical route
+418821007	Intracameral route
+418813001	Surgical drain route
+418743005	Fistula route
+418730005	Nasojejunal route
+418722009	Peribulbar route
+418664002	Oropharyngeal route
+418608002	Intracorneal route
+418586008	Intratendinous route
+418511008	Transurethral route
+418441008	Orogastric route
+418418000	Intraspinal route
+418401004	Intravitreal route
+418331006	Intracartilaginous route
+418321004	Retrobulbar route
+418287000	Intracoronal route
+418204005	Periurethral route
+418162004	Colostomy route
+418136008	Gastro-intestinal stoma route
+418133000	Intramyometrial route
+418114005	Intravenous central route
+418091004	Intratympanic route
+417989007	Intraductal route
+417985001	Enteral route
+417950001	Intrathoracic route
+417255000	Intraosseous route
+417070009	Caudal route
+416174007	Suborbital route
+404820008	Epidural route
+404819002	Intrabiliary route
+404818005	Intratracheal route
+372476004	Subconjunctival route
+372475000	Perineural route
+372474001	Periarticular route
+372473007	Oromucosal route
+372472002	Ocular route
+372471009	Intravesical route
+372470005	Intrasternal route
+372469009	Intrapleural route
+372468001	Intraocular route
+372467006	Intralymphatic route
+372466002	Intralesional route
+372465003	Intradiscal route
+372464004	Intradermal route
+372463005	Intracoronary route
+372462000	Intracervical route
+372460008	Intracardiac route
+372459003	Intrabursal route
+372458006	Intraamniotic route
+372457001	Gingival route
+372454008	Gastroenteral route
+372453002	Extra-amniotic route
+372452007	Endotracheopulmonary route
+372451000	Endosinusial route
+372450004	Endocervical route
+372449004	Dental route
+127492001	Nasogastric route
+127491008	Jejunostomy route
+127490009	Gastrostomy route
+90028008	Urethral route
+78421000	Intramuscular route
+72607000	Intrathecal route
+62226000	Intrauterine route
+60213007	Intramedullary route
+58100008	Intra-arterial route
+54485002	Ophthalmic route
+54471007	Buccal route
+47625008	Intravenous route
+46713006	Nasal route
+45890007	Transdermal route
+38239002	Intraperitoneal route
+37839007	Sublingual route
+37737002	Intraluminal route
+37161004	Rectal route
+34206005	Subcutaneous route
+26643006	Oral route
+16857009	Vaginal route
+12130007	Intra-articular route
+10547007	Otic route
+6064005	Topical route
