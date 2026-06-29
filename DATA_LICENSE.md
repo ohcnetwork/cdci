@@ -23,6 +23,20 @@ Key terms (paraphrased — the original `License.txt` governs):
   License and the CDCI `License.txt` for your situation. When in doubt, contact NRCeS
   (`nrc-help@cdac.in`).
 
+## Source data (NRCeS CLCI · LOINC)
+
+The lab data under `data/source/clci/` is the **Common Lab Codes for India (CLCI)** by NRCeS / C-DAC — a
+curated subset of **LOINC v2.82**. The original `NOTICE.txt` and `README.txt` are preserved alongside it.
+
+- The CLCI subset contains content from **LOINC** (https://loinc.org), copyright © **Regenstrief
+  Institute, Inc.** and the LOINC Committee, available at no cost under the LOINC license
+  (https://loinc.org/license). **LOINC®** is a registered United States trademark of Regenstrief Institute,
+  Inc.
+- The subset does **not** modify the meaning of the original LOINC codes. **Regenstrief Institute and the
+  LOINC Committee do not endorse this subset.**
+- Refer to the official LOINC License for complete licensing and usage requirements. Attribution is
+  surfaced in the app footer and on the About page.
+
 ## Generated artifacts
 
 `public/data/` is a derivative of the source data and inherits its terms (CC BY 4.0 + SNOMED CT
