@@ -291,7 +291,10 @@ function main() {
 
   // ── emit artifacts ──────────────────────────────────────────────────────────
   console.log("→ writing artifacts to", OUT);
-  rmSync(OUT, { recursive: true, force: true });
+  // Scoped cleanup: remove only the drug-owned paths, not the shared public/data
+  // root — public/data/labs is produced by the separate labs build and must survive.
+  for (const sub of ["concepts", "generic-brands", "search"]) rmSync(join(OUT, sub), { recursive: true, force: true });
+  rmSync(join(OUT, "manifest.json"), { force: true });
   for (const sub of ["concepts/substance", "concepts/generic", "concepts/brand", "generic-brands", "search"])
     mkdirSync(join(OUT, sub), { recursive: true });
 
