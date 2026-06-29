@@ -1,5 +1,5 @@
-CDCI Browser
-============
+Clinical Codes Browser
+======================
 
 This product includes and redistributes the "Common Drug Codes for India (CDCI)
 Flat File Package" produced by the National Resource Centre for EHR Standards
@@ -24,6 +24,18 @@ their respective owners and are included for identification purposes only.
 The CDCI package permits redistribution and the creation of derivatives within
 India. This project is intended for Indian healthcare use. C-DAC does not warrant
 the accuracy, completeness, or adequacy of the content.
+
+This product also includes and redistributes the "Common Lab Codes for India
+(CLCI)" produced by NRCeS at C-DAC, Pune — a curated subset of LOINC v2.82.
+
+  This material contains content from LOINC (http://loinc.org). LOINC is
+  copyright (c) Regenstrief Institute, Inc. and the Logical Observation Identifiers
+  Names and Codes (LOINC) Committee and is available at no cost under the license
+  at http://loinc.org/license. LOINC(R) is a registered United States trademark of
+  Regenstrief Institute, Inc.
+
+  The CLCI subset does not modify the meaning of the original LOINC codes.
+  Regenstrief Institute and the LOINC Committee do not endorse this subset.
 
 Community enrichment contributed to this project is licensed under CC BY 4.0.
 Application source code is licensed under the MIT License.

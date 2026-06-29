@@ -1,0 +1,12 @@
+Copyright (c) 2026, Centre for Development of Advanced Computing (C-DAC), Pune
+All rights reserved.
+
+The Common Lab Codes for India (CLCI) is released by the National Resource Centre for EHR Standards (NRCeS) at the Centre for Development of Advanced Computing (C-DAC), Pune.
+
+The Common Lab Codes for India (CLCI) is a curated subset of commonly used laboratory tests and measurements in India, along with their suggested mappings to Logical Observation Identifiers Names and Codes (LOINC Version 2.82). CLCI is intended to support the standardisation, interoperability, and exchange of laboratory data across healthcare systems.
+
+This material contains content from LOINC (http://loinc.org). LOINC is copyright © Regenstrief Institute, Inc. and the Logical Observation Identifiers Names and Codes (LOINC) Committee and is available at no cost under the license at http://loinc.org/license . LOINC® is a registered United States trademark of Regenstrief Institute, Inc.
+
+The subset has been developed for national implementation purposes and does not modify the meaning of the original LOINC codes. Regenstrief Institute and the LOINC Committee do not endorse this subset.
+
+For complete information regarding LOINC licensing and usage requirements, users should refer to the official LOINC License and related documentation.

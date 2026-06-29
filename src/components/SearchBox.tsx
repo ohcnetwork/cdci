@@ -6,7 +6,7 @@ import type { ConceptType } from "@/lib/types";
 
 const TYPE_META: Record<string, { label: string; cls: string }> = {
   generic: { label: "Generic", cls: "bg-[var(--color-accent-wash)] text-[var(--color-accent-ink)]" },
-  substance: { label: "Substance", cls: "bg-indigo-50 text-indigo-700" },
+  substance: { label: "Substance", cls: "bg-[var(--color-indigo-wash)] text-[var(--color-indigo-ink)]" },
   brand: { label: "Brand", cls: "bg-[var(--color-amber-wash)] text-[var(--color-amber-ink)]" },
   product: { label: "Product", cls: "bg-stone-100 text-stone-600" },
 };

@@ -7,7 +7,7 @@ import { ensureBrands, ensureCore, search, type Hit } from "@/lib/data";
 
 const TYPE_META: Record<string, { label: string; cls: string }> = {
   generic: { label: "Generic", cls: "bg-[var(--color-accent-wash)] text-[var(--color-accent-ink)]" },
-  substance: { label: "Substance", cls: "bg-indigo-50 text-indigo-700" },
+  substance: { label: "Substance", cls: "bg-[var(--color-indigo-wash)] text-[var(--color-indigo-ink)]" },
   brand: { label: "Brand", cls: "bg-[var(--color-amber-wash)] text-[var(--color-amber-ink)]" },
   product: { label: "Product", cls: "bg-stone-100 text-stone-600" },
 };
@@ -27,6 +27,30 @@ function Results() {
       alive = false;
     };
   }, [q]);
+
+  if (!q) {
+    return (
+      <div className="mx-auto max-w-3xl px-4 py-8">
+        <h1 className="text-2xl font-semibold tracking-tight">Drug codes</h1>
+        <p className="mt-1 text-[13px] text-[var(--color-faint)]">CDCI · SNOMED CT — substances, generics and branded medicines.</p>
+        <div className="mt-4">
+          <SearchBox autoFocus />
+        </div>
+        <div className="mt-3 flex flex-wrap items-center gap-2 text-[13px] text-[var(--color-muted)]">
+          <span>Try:</span>
+          {["Paracetamol", "Amoxicillin", "Metformin", "Azithromycin"].map((e) => (
+            <Link
+              key={e}
+              href={`/search/?q=${encodeURIComponent(e)}`}
+              className="rounded-full border border-[var(--color-line)] bg-[var(--color-surface)] px-2.5 py-1 hover:border-[var(--color-accent)] hover:text-[var(--color-accent-ink)]"
+            >
+              {e}
+            </Link>
+          ))}
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-8">
